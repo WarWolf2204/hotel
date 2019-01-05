@@ -1,0 +1,7 @@
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\obj\Debug\bai6.csprojResolveAssemblyReference.cache
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\obj\Debug\bai6.MainForm.resources
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\obj\Debug\bai6.csproj.GenerateResource.Cache
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\bin\Debug\bai6.exe
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\bin\Debug\bai6.pdb
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\obj\Debug\bai6.exe
+C:\Users\LQK\Documents\SharpDevelop Projects\bai6\bai6\obj\Debug\bai6.pdb

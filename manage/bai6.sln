@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai6", "bai6\bai6.csproj", "{F5E6CE2A-2DEB-46B2-90E6-38EC4893EEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E6CE2A-2DEB-46B2-90E6-38EC4893EEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E6CE2A-2DEB-46B2-90E6-38EC4893EEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E6CE2A-2DEB-46B2-90E6-38EC4893EEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E6CE2A-2DEB-46B2-90E6-38EC4893EEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
